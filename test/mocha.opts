@@ -1,0 +1,2 @@
+--reporter mochawesome
+--compilers js:babel-core/register
